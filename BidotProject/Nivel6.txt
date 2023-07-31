@@ -1,0 +1,7 @@
+ModoDeJuego=2
+PosicionX_y_PosicionY_DePelotas=20|20-270|50-270|400-20|450
+DireccionDePelotas=True-False-False-False
+ColorDePelotas=#0404B4-#DF0101-#DF0101-#0404B4
+PosicionX_y_PosicionY_DeObstaculos=240|470 240|-420
+PosicionX_y_PosicionY_DeBordes=0|890|250|10-0|0|10|900-0|0|250|10-250|0|250|10-490|0|10|900-250|890|250|10
+AnchoYAltoDeObstaculos=10|815
